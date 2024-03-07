@@ -10,6 +10,6 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
 
-Hier gibt es den Code für das Spiel im Verzeichnis _src_. Der Stand des Codes entspricht dem Artikel in der gedruckten Make-Ausgabe und bei heise+. Auf der [Projektseite des Autors](https://surasto.de/index.php?cat=Elektronik&page=LED-Memory) gibt es ggf. neuere Versionen [des Codes zum Download](https://surasto.de/index.php?cat=Elektronik&file=LEDMemory-Deo-Memory.zip).
+Hier gibt es den Code für das Spiel im Verzeichnis _src_. Der Stand des Codes entspricht dem Artikel in der gedruckten Make-Ausgabe und bei heise+. Auf der [Projektseite des Autors](https://surasto.de/index.php?cat=Elektronik&page=LED-Memory) gibt es ggf. neuere Versionen [des Codes zum Download](https://surasto.de/index.php?cat=Elektronik&file=LEDMemory-Deo-Memory.zip). Eine elektronische Version des im Heft gedruckten [Schaltplans gibt es als PDF](./doc/Schematics-Block.pdf).
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 2/24 ab Seite z](https://www.heise.de/select/make/xxx)**.
